@@ -7,9 +7,9 @@ Copy paste the all the commands that you executed on IDLE:
 57
 >>> 2020/17
 118.82352941176471
->>> q=2020/19
+>>> q=2020//19
 >>> print(q)
-106.3157894736842
+106
 >>> r=2021%21
 >>> print(r)
 5
