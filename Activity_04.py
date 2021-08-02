@@ -11,3 +11,9 @@ print("",z)
 print("{0} + {1} = {2}".format(a,b,z))
 #f-string method
 print(f"The sum of\n{a} + {b} = {z}")
+
+def summation(a,b):
+    z=a+b
+    return z
+result=summation(a,b)
+print("The sum is ",result)
