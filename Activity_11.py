@@ -1,7 +1,7 @@
 def main():
-    print(f"Enter the value of first number")
+    print("Enter the value of first number")
     a=input_number()
-    print(f"Enter the value of second number")
+    print("Enter the value of second number")
     b=input_number()
     summation=add(a,b)
     display(a,b,summation)
