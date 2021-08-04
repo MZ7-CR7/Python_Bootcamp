@@ -11,7 +11,7 @@ def input_number():
 def add(a,b):
     return a+b
 def display(a,b,summation):
-    print(f"{a}+{b}={a+b}")
+    print(f"The sum of {a}+{b}={a+b}")
 
 main()
    
